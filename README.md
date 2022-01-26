@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ELtrebolt
-- 👀 I’m interested in ... American football, video games, and music!
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ... Data Science
+- 👋 Hi, I’m Ethan! I'm a 2nd year student at University of California, Irvine and I'm highly interested in predictive analytics!
+- 👀 I’m interested in ... American football, video games, and music
+- 🌱 I’m currently learning ... Linear Regression and Web Development
+- 💞️ I’m looking to collaborate on ... anything sports related!
 - 📫 How to reach me ... Email --> ethanpl@uci.edu
 
 <!---
