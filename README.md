@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ethan!
-- 👀 I’m interested in ... American football, video games, and music
-- 🌱 I’m currently learning ... Linear Regression and Web Development
+- 👀 I’m interested in ... American football, music, and video games
+- 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... anything sports related!
 - 📫 How to reach me ... Email --> ethanpl@uci.edu
 
