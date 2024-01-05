@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ethan!
-- 👀 I’m interested in ... American football, music, and video games
+- 👀 I’m interested in ... American football, tennis, pop punk, and strategy games
 - 🌱 I’m currently learning ... Full Stack Web Development
-- 💞️ I’m looking to collaborate on ... anything sports related!
+- 💞️ I’m looking to collaborate on ... exciting new ventures!
 - 📫 How to reach me ... Email --> ethanpl@uci.edu
 
 <!---
